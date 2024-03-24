@@ -1,4 +1,4 @@
-// The main function initializes lists of scores and calls the
+// The main function initializes lists of scores
 void main() {
   final List<int> lumbaLumbaScores = [96, 108, 89];
   final List<int> koalaScores = [88, 91, 110];
